@@ -1,4 +1,4 @@
-Terraform examle Module.
+Terraform web-site-examle Module.
 
 Este módulo cria uma **infraestrutura básica WEB de exemplo** (elb, sg e ec2) e aceita os seguintes parâmetros:
 
